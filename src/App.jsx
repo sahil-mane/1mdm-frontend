@@ -6,8 +6,6 @@ import { Header } from './component/Header'
 import ThirdSection from './component/thirdSection/ThirdSection'
 import FourthSection from './component/fouthSection/FourthSection'
 function App() {
-
-
   return (
     <>
       <Header />

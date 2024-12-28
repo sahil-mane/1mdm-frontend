@@ -1,0 +1,12 @@
+The project made by 
+using React js(vite)
+
+==========================
+
+for styling using 
+Tailwind css
+
+=========================== 
+
+swiping effect 
+using swiper js
