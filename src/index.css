@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'Poppins', sans-serif
+}
+
+.text:hover{
+  @apply text-[#ed1c24];
+}
+
+li{
+  @apply text-gray-400
+}
