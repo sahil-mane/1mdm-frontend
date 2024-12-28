@@ -1,5 +1,5 @@
 import Footer from './component/Footer'
-import SectionTwo from './component/sectionTwo'
+import SectionTwo from './component/SectionTwo.jsx'
 import LastSecondSection from './component/LastSecondSection'
 import HeroSection from './component/HeroSection'
 import { Header } from './component/Header'
